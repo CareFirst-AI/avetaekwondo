@@ -134,7 +134,7 @@ const Contact = () => {
             <div className="flex justify-center gap-8">
               {/* YouTube - Main Channel */}
               <a 
-                href="https://www.youtube.com/@avetaekwondo"   // ← CHANGE TO YOUR REAL LINK
+                href="https://www.youtube.com/@avetaekwondophph"   // ← CHANGE TO YOUR REAL LINK
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-muted-foreground hover:text-red-500 transition-colors group"
