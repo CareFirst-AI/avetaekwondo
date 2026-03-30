@@ -45,7 +45,7 @@ const Footer = () => {
             </h4>
             <div className="flex gap-4">
               <a
-                href="https://www.youtube.com/@avetaekwondoph"
+                href="https://www.youtube.com/@avetaekwondo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
