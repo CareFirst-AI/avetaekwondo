@@ -45,7 +45,7 @@ const Footer = () => {
             </h4>
             <div className="flex gap-4">
               <a
-                href="https://www.youtube.com/@avetaekwondo"
+                href="https://www.youtube.com/@avetaekwondophph"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -108,7 +108,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-10 pt-6 border-t border-border text-center text-muted-foreground text-xs">
-          © {new Date().getFullYear()} avetaekwondo Channel. All rights reserved.
+          © {new Date().getFullYear()} avetaekwondophph Channel. All rights reserved.
         </div>
       </div>
     </footer>
