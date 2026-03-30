@@ -55,7 +55,7 @@ const Header = () => {
             </Link>
           ))}
           <a
-            href="https://youtube.com/@avetaekwondo"
+            href="https://youtube.com/@avetaekwondophphph"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-primary text-primary-foreground px-4 py-2 rounded-sm font-heading text-sm uppercase tracking-wider flex items-center gap-2 hover:bg-fighter-red-glow transition-colors"
@@ -88,7 +88,7 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="https://youtube.com/@avetaekwondo"
+              href="https://youtube.com/@avetaekwondophphph"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-primary text-primary-foreground px-4 py-3 rounded-sm font-heading text-center uppercase tracking-wider flex items-center justify-center gap-2"
