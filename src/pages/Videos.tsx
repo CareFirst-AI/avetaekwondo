@@ -17,7 +17,7 @@ const videos = [
   { id: "l2WkMwiscso", title: "Daily Training Routine", category: "Training", date: "2024-12-15" },
   { id: "EeUVvimiVuw", title: "Tournament Day Vlog", category: "Vlogs", date: "2024-12-01" },
   { id: "bj4yrTw0myE", title: "Year in Review", category: "Vlogs", date: "2024-11-15" },
-  { id: "tHaf9iPjhXM", title: "avetaekwondo Channel Intro", category: "Vlogs", date: "2024-10-01" },
+  { id: "tHaf9iPjhXM", title: "avetaekwondoph Channel Intro", category: "Vlogs", date: "2024-10-01" },
 ];
 
 const shareVideo = (title: string, id: string) => {
